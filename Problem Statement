@@ -1,0 +1,4 @@
+Problem Statement:
+In today’s real estate market, determining accurate property prices is a persistent challenge due to the interplay of multiple socio-economic and structural factors such as crime rate, proximity to employment centers, age of the property, and neighborhood characteristics. Stakeholders — including realtors, developers, and policy makers — often rely on subjective estimates, leading to inconsistencies in valuation and poor investment decisions.
+
+This project aims to develop a Supervised Learning Model using Linear Regression to predict median housing prices (MEDV) based on key neighborhood and structural features. By leveraging historical housing data, the model identifies critical predictors influencing home values and quantifies their impact, providing a data-driven foundation for real estate pricing, investment analysis, and urban development planning.
